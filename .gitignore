@@ -1,0 +1,6 @@
+venv
+data
+*.osm
+*.osm.pbf
+.vscode
+__pycache__

@@ -1,0 +1,11 @@
+geopy
+beautifulsoup4
+requests
+pandas
+osmium
+openpyxl
+tqdm
+scipy
+folium
+colourmap
+overpy
